@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: PicoG < LabVIEW < PicoG
 description: Runs LabVIEW on microcontrollers and more!
 logo: https://avatars.githubusercontent.com/u/87821763?s=400&v=4
