@@ -1,6 +1,6 @@
 # **PicoG \< LabVIEW \< PicoG**
 
-## **Runs LabVIEW on microprocessors and more!**
+## **Runs LabVIEW on microcontrollers and more!**
 
 **Visit us at** [**github.com/PicoG**](https://github.com/PicoG/)  
 **coming soon...**
