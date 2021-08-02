@@ -1,5 +1,4 @@
-#theme: jekyll-theme-slate
-remote_theme: mmistakes/minimal-mistakes
+theme: minima
 title: picoG
 description: Runs LabVIEW on the Raspberry Pi Pico!
 #logo: https://avatars.githubusercontent.com/u/87821763?s=400&v=4
@@ -16,6 +15,4 @@ minima:
     # instagram: jekyll
     linkedin: picog
 
-plugins:
-  - jekyll-include-cache
   
