@@ -15,4 +15,5 @@ minima:
     # instagram: jekyll
     linkedin: picog
 
-  
+header_pages: 
+  - about.html 
