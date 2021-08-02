@@ -1,4 +1,5 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+remote_theme: mmistakes/minimal-mistakes
 title: picoG
 description: Runs LabVIEW on the Raspberry Pi Pico!
 #logo: https://avatars.githubusercontent.com/u/87821763?s=400&v=4
