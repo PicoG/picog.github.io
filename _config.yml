@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: PicoG < LabVIEW < PicoG
-description: Runs LabVIEW on microcontrollers and more!
+title: picoG
+description: Runs LabVIEW on the Raspberry Pi Pico!
 #logo: https://avatars.githubusercontent.com/u/87821763?s=400&v=4
 
 minima:
