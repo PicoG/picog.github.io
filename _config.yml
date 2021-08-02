@@ -15,3 +15,7 @@ minima:
     # flickr:   jekyll
     # instagram: jekyll
     linkedin: picog
+
+plugins:
+  - jekyll-include-cache
+  
