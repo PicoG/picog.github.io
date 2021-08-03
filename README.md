@@ -1,7 +1,5 @@
 _More coming soon..._
 
-[Check us out on GitHub](https://github.com/PicoG/) / [Join the Discussion](https://github.com/PicoG/PicoG/discussions) / Check out our Roadmap
-
 picoG allows building and deploying LabVIEW NXG Web VIs to microcontroller boards like the [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/).
 
 It does this by extracting the VI Assembly (VIA) files which contain the block diagram code for a Web VI and running it on a picoG's port of the [NI Vireo](https://github.com/ni/VireoSDK) open source runtime engine for (a subset of) LabVIEW.
