@@ -1,5 +1,3 @@
-![](https://user-images.githubusercontent.com/381432/128048546-5458202f-621a-4b4b-909b-270bf52bc4de.png)
-
 _More coming soon..._
 
 [Check us out on GitHub](https://github.com/PicoG/) / [Join the Discussion](https://github.com/PicoG/PicoG/discussions) / Check out our Roadmap
