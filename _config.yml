@@ -16,4 +16,4 @@ minima:
     linkedin: picog
 
 header_pages: 
-  - about.html 
+  - getting_started.md
