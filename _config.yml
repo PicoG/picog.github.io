@@ -36,3 +36,7 @@ minima:
 
 header_pages: 
   - getting_started.md
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
