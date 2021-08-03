@@ -1,4 +1,6 @@
-_More coming soon..._ 
+![69C9411A-7B6D-45F7-B3A9-A34237C879C1](https://user-images.githubusercontent.com/381432/127964879-f6a195c0-a736-43f6-a693-439c56e33057.png)
+
+_More coming soon..._
 
 [Check us out on GitHub](https://github.com/PicoG/) / [Join the Discussion](https://github.com/PicoG/PicoG/discussions) / Check out our Roadmap
 
