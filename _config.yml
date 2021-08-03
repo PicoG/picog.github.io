@@ -4,14 +4,14 @@ description: Runs LabVIEW on the Raspberry Pi Pico!
 
 minima:
   social_links:
-    twitter: PicoG42
-    github: picog
+#    twitter: PicoG42
+#    github: picog
 #    stackoverflow: "11111"
 #    dribbble: jekyll
 #    facebook: jekyll
 #    flickr: jekyll
 #    instagram: jekyll
-    linkedin: picog
+#    linkedin: picog
 #    pinterest: jekyll
 #    telegram: jekyll
 #    microdotblog: jekyll
