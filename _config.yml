@@ -1,19 +1,38 @@
 theme: minima
 title: picoG
 description: Runs LabVIEW on the Raspberry Pi Pico!
-#logo: https://avatars.githubusercontent.com/u/87821763?s=400&v=4
 
 minima:
-  # generate social links in footer
   social_links:
     twitter: PicoG42
-    github:  picog
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    linkedin: picog
+    github: picog
+#    stackoverflow: "11111"
+#    dribbble: jekyll
+#    facebook: jekyll
+#    flickr: jekyll
+#    instagram: jekyll
+#    linkedin: picog
+#    pinterest: jekyll
+#    telegram: jekyll
+#    microdotblog: jekyll
+#    keybase: jekyll
+
+#    mastodon:
+#     - username: jekyll
+#       instance: example.com
+#     - username: jekyll2
+#       instance: example.com
+
+#    gitlab:
+#     - username: jekyll
+#       instance: example.com
+#     - username: jekyll2
+#       instance: example.com
+
+#    youtube: jekyll
+#    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+#    youtube_channel_name: CloudCannon
+
 
 header_pages: 
   - getting_started.md
