@@ -1,4 +1,5 @@
-### About picoG
+
+### Run LabVIEW on Microcontrollers
 
 picoG lets you deploy LabVIEW NXG Web VIs to microcontroller boards like the [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)!
 
