@@ -1,4 +1,4 @@
-_**Run LabVIEW on Microcontrollers!**_
+_Run LabVIEW on Microcontrollers!_
 
 ### About picoG
 
