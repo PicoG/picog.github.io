@@ -2,7 +2,7 @@
 
 picoG lets you deploy LabVIEW NXG Web VIs to microcontroller boards like the [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)!
 
-Here is a "hello world!" example, outputting messages on its USB serial port:
+Here is a "hello world!" example, running on the RPi Pico board and outputting messages on the board's USB serial port:
 
 ![](https://user-images.githubusercontent.com/381432/127722850-715e39de-9642-4bb7-ae5c-262b6610d3c8.gif)
 
