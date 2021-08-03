@@ -1,4 +1,4 @@
-![69C9411A-7B6D-45F7-B3A9-A34237C879C1](https://user-images.githubusercontent.com/381432/127964879-f6a195c0-a736-43f6-a693-439c56e33057.png)
+![](https://user-images.githubusercontent.com/381432/128048546-5458202f-621a-4b4b-909b-270bf52bc4de.png)
 
 _More coming soon..._
 
