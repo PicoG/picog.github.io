@@ -2,7 +2,7 @@
 
 picoG lets you deploy LabVIEW NXG Web VIs to microcontroller boards like the [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)!
 
-Here is our "hello world!" example.
+Here is a "hello world!" example, outputting messages on its USB serial port:
 
 ![](https://user-images.githubusercontent.com/381432/127722850-715e39de-9642-4bb7-ae5c-262b6610d3c8.gif)
 
@@ -12,4 +12,10 @@ PicoG watches your LabVIEW NXG Web VI project and notifies you when it has been 
 
 ### Status
 
-picoG currently runs on the [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) (and other compatible boards with the [RP2040](https://www.raspberrypi.org/documentation/rp2040/getting-started/) chip) and supports basic LabVIEW functionality. We are working to support more and more functionality of LabVIEW, as well as more microcontroller chips and boards. Stay tuned...
+picoG currently runs on the [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) (and other compatible boards with the [RP2040](https://www.raspberrypi.org/documentation/rp2040/getting-started/) chip) and supports basic LabVIEW functionality. We are working to support more and more functionality of LabVIEW, as well as more microcontroller chips and boards.
+
+### How to Get Involved
+
+If you'd like to help, please [post to our discussion forum](https://github.com/PicoG/PicoG/discussions).
+
+In addition to LabVIEW experience, we're especially looking for people with C++, cmake, and microcontroller experience.
