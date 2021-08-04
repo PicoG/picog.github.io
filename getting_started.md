@@ -1,5 +1,11 @@
 Here's how to get started with PicoG.
 
+Currently, you will need to run PicoG from source (or build the EXE from source). We're working an installer that will make getting started a lot easier (especially if you're just interested in using picoG and not actually contributing to the project).
+
+Also, your deployed applications will need to be redeployed after restarting your RPi Pico Board -- meaning: the program does not persist on the board's non-volatile memory. We are working on ways for you to burn/flash your program onto the board, so that it runs automatically at startup. If you want to help out with this, [join the discussion](https://github.com/PicoG/PicoG/discussions).
+
+## Running or Building PicoG from Source
+
 ### Prerequisites (to install)
 
 1.  [LabVIEW NXG Community Edition](https://www.ni.com/en-us/support/downloads/software-products/download.labview-nxg-community.html#370014) version 5.1 or later (for developing WebVIs -- see NXH Web Module sub-bullet, below)
@@ -36,12 +42,16 @@ Note that we are working on an installer, which will not require any of the step
         2.  Run `Main.vi` in LabVIEW
 5.  Success! PicoG is now running and ready to deploy WebVIs to microprocessors!
 
+## Preparing your Raspberry Pi (RPi) Pico
+
 ### Installing picoG on your Raspberry Pi (RPi) Pico
 
 1.  Download the pico.uf2 firmware file
 2.  Put your RPi Pico in bootloader mode by pressing the Bootloader button before/while plugging it into your USB port
 3.  Copy the pico.uf2 file to the PICO usb drive
 4.  The pico will reboot automatically and should now be running PicoVerio, allowing PicoG Desktop to deploy your webVIs
+
+## Editing and Deploying WebVis to your RPi Pico Board
 
 ### Deploying WebVIs to your RPi Pico board
 
@@ -52,7 +62,7 @@ Note that we are working on an installer, which will not require any of the step
 3.  Open `PicoG-Lib\Examples\HelloBlink.gcomp\HelloBlink.gcomp`
     1.  This is your Web component that will get built into VIA
     2.  Click "Build" to build the web project and generate the VIA
-4.  In the PicoG Desktop app, click on the Folder icon/button and browse/select the `PicoG-Lib.lvproject` file.
+4.  In the PicoG Desktop app (if it's not running already, run it now), click on the Folder icon/button and browse/select the `PicoG-Lib.lvproject` file.
     1.  This will cause PicoG Desktop to watch the project for WebVI build outputs
     2.  You should see HelloBlink in the list of discovered build outputs
     3.  Click on the "Deploy" button to deploy HelloBlink to your RPi Pico board
