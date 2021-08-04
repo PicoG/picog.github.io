@@ -5,7 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img height="100px" style="margin-left: -10px; margin-top: -20px; margin-bottom: -20px;" src="/images/picog_logo_horizontal_green_on_transparent.svg">
+      <img height="100px" style="margin-left: -20px; margin-top: -20px; margin-bottom: -20px;" src="/images/picog_logo_horizontal_green_on_transparent.svg">
     </a>
 
     {%- if titles_size >= 0 -%}
