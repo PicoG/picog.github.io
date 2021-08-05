@@ -1,4 +1,4 @@
-picoG is made freely available and licensed under the MIT open source license, in order for it to be accessible to everyone.
+picoG is made freely available under the MIT open source license, in order for it to be accessible to everyone.
 
 ### Our Mission
 
