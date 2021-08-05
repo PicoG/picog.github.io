@@ -1,10 +1,12 @@
-_Run LabVIEW on Microcontrollers!_
+_Run LabVIEW on Microcontrollers... and it's free!_
 
 ## About picoG
 
-picoG lets you deploy LabVIEW NXG Web VIs to microcontroller boards like the [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)!
+picoG is a free (and open source) tool that lets you deploy LabVIEW NXG Web VIs to microcontrollers!
 
-Here is a "hello world!" example, running on the RPi Pico board and outputting messages on the board's USB serial port:
+\>> [Click here to get started](https://www.picog.org/getting_started) \<\<
+
+Here is a "hello world!" example, running on the [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) board and outputting messages on the board's USB serial port:
 
 ![](https://user-images.githubusercontent.com/381432/127722850-715e39de-9642-4bb7-ae5c-262b6610d3c8.gif)
 
