@@ -16,7 +16,7 @@ We're hoping to add others to the team, so [join the discussion](https://github.
 
 ### Our Sponsors and Supporters
 
-We'd like to thank our sponsors and supports for making picoG possible.
+We'd like to thank our sponsors and supporters for making picoG possible.
 
 <br/>
 
