@@ -1,4 +1,4 @@
-Here's how to get started with PicoG.
+Here's how to get started with PicoG.  Don't worry, it'll be much easier, soon...
 
 Currently, you will need to run PicoG from source (or build the EXE from source). We're working an installer that will make getting started a lot easier (especially if you're just interested in using picoG and not actually contributing to the project).
 
