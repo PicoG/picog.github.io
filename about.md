@@ -6,7 +6,7 @@ At picoG we make graphical (G Dataflow) programming accessible to everyone and d
 
 ## Our Sponsors and Supporters
 
-![](https://user-images.githubusercontent.com/381432/128289712-7ae485ba-c0e6-4340-8f3d-5790921f5701.png)
+![](https://user-images.githubusercontent.com/381432/128290531-b8428509-c0c1-4350-8779-4af5d43dfc47.png)
 
 [JKI](jki.net) is a lead sponsor of picoG, supporting our logo design, web hosting, and application distribution.
 
