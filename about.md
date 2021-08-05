@@ -1,8 +1,8 @@
 picoG is made freely available and licensed under the MIT open source license, in order for it to be accessible to everyone.
 
-### Our Mission
+## Our Mission
 
-At picoG we make graphical (G Dataflow) programming accessible to everyone and deployable to any device or platform.
+### _At picoG we make graphical (G Dataflow) programming accessible to everyone and deployable to any device or platform._
 
 (Right now, we're working on PicoG Desktop which allows you to deploy LabVIEW NXG 5.1 "G Web VIs" to the Raspberry Pi Pico.)
 
