@@ -1,5 +1,11 @@
 picoG is made freely available under the MIT open source license, in order for it to be accessible to everyone.
 
+### Team
+
+This project was launched via a mashup of another crazy idea of [Jim Kring](https://github.com/jimkring), some brilliant brainstorming with [NatanBiesmans](https://github.com/NatanBiesmans), and the C++/Microcontroller/LabVIEW/Software wizardry of [Derrick Bommarito](https://github.com/negentropicdev).
+
+We're hoping to add others to the team, so [join the discussion](https://github.com/PicoG/PicoG/discussions) if you're interested!
+
 ### Our Mission
 
 #### _At picoG we make graphical (G Dataflow) programming accessible to everyone and deployable to any device or platform._
