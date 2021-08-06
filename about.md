@@ -1,3 +1,5 @@
+![test image size](/images/picog_logo_horizontal_green_on_transparent.svg){:height="50%" width="50%"}
+
 picoG is made freely available under the MIT open source license, in order for it to be accessible to everyone.
 
 ### Team
