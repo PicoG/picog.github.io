@@ -14,7 +14,7 @@ We're hoping to add others to the team, so [join the discussion](https://github.
 
 #### _At picoG we make graphical (G Dataflow) programming accessible to everyone and deployable to any device or platform._
 
-(Right now, we're working on PicoG Desktop which allows you to deploy LabVIEW NXG 5.1 "G Web VIs" to the Raspberry Pi Pico.)
+Right now, we're working on PicoG Desktop which allows you to deploy LabVIEW [G Web VIs](http://webvi.io) to the Raspberry Pi Pico.
 
 ### Our Sponsors and Supporters
 
