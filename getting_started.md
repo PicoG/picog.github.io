@@ -8,8 +8,7 @@ Also, your deployed applications will need to be redeployed after restarting you
 
 ### Prerequisites (to install)
 
-1.  [LabVIEW NXG Community Edition](https://www.ni.com/en-us/support/downloads/software-products/download.labview-nxg-community.html#370014) version 5.1 or later (for developing WebVIs -- see NXH Web Module sub-bullet, below)
-    1.  [LabVIEW NXG Web Module](https://www.ni.com/en-us/support/downloads/software-products/download.labview-nxg-web-module.html#369493) version 5.1 or later (for developing WebVIs to generate the VIA that is processed and downloaded to the microprocessor boards)
+1.  [G Web Development Software Community Edition](https://www.ni.com/en-us/support/downloads/software-products/download.g-web-development-software.html#411404) (for developing WebVIs to generate the VIA that is processed and downloaded to the microprocessor boards)
 2.  [LabVIEW 2020 Community Edition](https://www.ni.com/en-us/support/downloads/software-products/download.labview-community.html#370001) version 2020 SP1 or later (for running and building PicoG Desktop from source)
     1.  MGI Solution Explorer this is an option during the LabVIEW 2020 installation. Be sure to install it.
     2.  If you don't have it installed, you can install it with NI Package Manager
@@ -30,7 +29,7 @@ Note that we are working on an installer, which will not require any of the step
     1.  double-click the `picog.vipc` (VI Package Configuration) file to open it in VIPM.
     2.  When prompted to install the packages, choose LabVIEW 2020
 3.  Automatic Build of All PPLs and EXE (Requires MGI Solution Explorer / Skip if you want to do #4 below)
-    1.  You can build all PPLs and the EXE by building the `PicoG-LV.lvsln` (LabVIEW Solution) using MGI Solution explorer
+    1.  You can build all PPLs and the EXE by building the `PicoG-LV.lvsln` (LabVIEW Solution) using MGI Solution Explorer
     2.  Double click the `PicoG-LV.lvsln` file to open it in MGI Solution Explorer and then build the solution
     3.  after building, look in the .\\Builds\\picoG folder for the executable and run it.
 4.  Manual Build of **Build PPLs (skip if you did #3 above)** -- you can skip this step if you did step number 3, above
@@ -55,14 +54,16 @@ Note that we are working on an installer, which will not require any of the step
 
 ### Deploying WebVIs to your RPi Pico board
 
-1.  Open `PicoG-Lib.lvproject` in LabVIEW NXG
-2.  Open `PicoG-Lib\Examples\HelloBlink.gcomp\HelloBlink.gviweb`
+1.  Install the 
+
+3.  Open `PicoG-Lib.lvproject` in LabVIEW NXG
+4.  Open `PicoG-Lib\Examples\HelloBlink.gcomp\HelloBlink.gviweb`
     1.  This is your WebVI source code
     2.  Edit it as you wish
-3.  Open `PicoG-Lib\Examples\HelloBlink.gcomp\HelloBlink.gcomp`
+5.  Open `PicoG-Lib\Examples\HelloBlink.gcomp\HelloBlink.gcomp`
     1.  This is your Web component that will get built into VIA
     2.  Click "Build" to build the web project and generate the VIA
-4.  In the PicoG Desktop app (if it's not running already, run it now), click on the Folder icon/button and browse/select the `PicoG-Lib.lvproject` file.
+6.  In the PicoG Desktop app (if it's not running already, run it now), click on the Folder icon/button and browse/select the `PicoG-Lib.lvproject` file.
     1.  This will cause PicoG Desktop to watch the project for WebVI build outputs
     2.  You should see HelloBlink in the list of discovered build outputs
     3.  Click on the "Deploy" button to deploy HelloBlink to your RPi Pico board
