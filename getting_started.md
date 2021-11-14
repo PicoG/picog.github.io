@@ -8,7 +8,7 @@ Also, your deployed applications will need to be redeployed after restarting you
 
 ### Prerequisites (to install)
 
-1.  [G Web Development Software Community Edition](https://www.ni.com/en-us/support/downloads/software-products/download.g-web-development-software.html#411404) (for developing WebVIs to generate the VIA that is processed and downloaded to the microprocessor boards)
+1.  [G Web Development Software Community Edition](https://www.ni.com/en-us/support/downloads/software-products/download.g-web-development-software-community.html#411262) (for developing WebVIs to generate the VIA that is processed and downloaded to the microprocessor boards)
 2.  [LabVIEW 2020 Community Edition](https://www.ni.com/en-us/support/downloads/software-products/download.labview-community.html#370001) version 2020 SP1 or later (for running and building PicoG Desktop from source)
     1.  MGI Solution Explorer this is an option during the LabVIEW 2020 installation. Be sure to install it.
     2.  If you don't have it installed, you can install it with NI Package Manager
