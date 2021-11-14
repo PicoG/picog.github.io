@@ -4,7 +4,7 @@ _Run G Dataflow code (i.e. LabVIEW) on Microcontrollers... it's free!_
 
 picoG is a free (open source) tool that lets you deploy G Dataflow code to microcontrollers!
 
-(It uses the free [G Web Development Software Community Edition](https://www.ni.com/en-us/support/downloads/software-products/download.g-web-development-software.html) (formerly LabVIEW NXG Web Module) as the G Dataflow IDE.)
+(It uses the free [G Web Development Software Community Edition](https://www.ni.com/en-us/support/downloads/software-products/download.g-web-development-software-community.html#411262) (formerly LabVIEW NXG Web Module) as the G Dataflow IDE.)
 
 \>> [Click here to get started with PicoG](https://www.picog.org/getting_started) \<\<
 
